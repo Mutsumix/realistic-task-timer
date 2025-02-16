@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "realistic-task-timer",
+    "name": "リアルタイマー",
     "slug": "realistic-task-timer",
-    "version": "2.0.1",
+    "version": "3.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "bundleIdentifier": "mutsumix.realistictasktimer",
-      "buildNumber": "2.0.1",
+      "buildNumber": "3.0.0",
       "supportsTablet": false,
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
@@ -22,7 +22,7 @@
     },
     "android": {
       "package": "mutsumix.realistictasktimer",
-      "versionCode": 201,
+      "versionCode": 3,
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
